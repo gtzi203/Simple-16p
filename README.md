@@ -4,13 +4,21 @@
 
 
 
+Features:
+
+
+
+Textures for every Minetest Game texture.
+
 
 
 
 
 License:
 
-Code: LGPL 2.1
+
+
 Textures, Models and Sounds: CC-BY-SA
 
 See LICENSE.txt for more information.
+
